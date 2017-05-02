@@ -1,0 +1,24 @@
+https://mp.weixin.qq.com/s?__biz=MzI4MDAzNzI2Mg==&mid=2652284264&idx=1&sn=e127766d06a99ada461601e9ec141fe9
+
+wsimport -s F:/works/ldx2.0402.workspace/bill/src -p com.gp.ldx.text.service -keep http://172.19.255.18:14205/helloWord?wsdl
+
+
+wsimport -s E:\workpace\aatext\src -p com.gp.ldx.text.service -keep http://172.19.255.18:14300/ldxws/webs/hello?wsdl
+
+
+
+<xml>
+<channelCode>7500</channelCode>
+<msgType>1</msgType>
+<msgNo>111</msgNo>
+<consNo>6024055998</consNo>
+<userName>xml过来了</userName>
+<msgTitle>123</msgTitle>
+<msgTime>456</msgTime>
+<msgContent>{consNo:6024055998,consName:被你征服,elecAddr:2222,ny:201601,elecQuantity:133,amt:222.2}</msgContent>
+</xml>
+
+
+{channelCode:8448,msgType:2017.2.2,msgNo:000,consNo:6024136765,userName:狗子,msgTitle:000,msgTime:1111,msgContent:{consNo:6024136765,elecAddr:这是一首小情歌,consName:不留红,ny:2017.3,elecQuantity:555,amt:700.5}}
+
+{channelCode:8448,msgNo:000,consNo:6024136765,userName:傻逼,msgTitle:000,msgTime:1111,msgContent:{consNo:6024136765,elecAddr:这是一首小情歌,consName:周小玲,ny:2017.3,elecQuantity:555,amt:700.5}}
