@@ -1,0 +1,11 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Nov 06 23:16:09 CST 2016
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1477905288999
+http\://repo.spring.io/ext-release-local/.error=Could not transfer artifact org.springframework\:spring-jdbc\:jar\:4.1.7.RELEASE from/to spring-ext (http\://repo.spring.io/ext-release-local/)\: TransferFailedException
+http\://repo.spring.io/snapshot/.lastUpdated=1477905440553
+http\://repo.maven.apache.org/maven2/.lastUpdated=1478445369151
+http\://repo.spring.io/snapshot/.error=
+http\://repo.spring.io/milestone/.error=
+http\://repo.spring.io/milestone/.lastUpdated=1477905412853
+@default-spring-ext-http\://repo.spring.io/ext-release-local/.lastUpdated=1477905367858
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework\:spring-jdbc\:jar\:4.1.7.RELEASE from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org

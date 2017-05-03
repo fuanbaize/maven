@@ -1,0 +1,10 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Oct 31 17:17:20 CST 2016
+http\://repo.spring.io/milestone/.error=
+http\://repo.spring.io/ext-release-local/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-jdbc\:jar\:1.2.6.RELEASE from/to spring-ext (http\://repo.spring.io/ext-release-local/)\: Failed to transfer file\: http\://repo.spring.io/ext-release-local/org/springframework/boot/spring-boot-starter-jdbc/1.2.6.RELEASE/spring-boot-starter-jdbc-1.2.6.RELEASE.jar. Return code is\: 901 , ReasonPhrase\:.
+http\://repo.spring.io/snapshot/.lastUpdated=1477905440501
+http\://repo.spring.io/snapshot/.error=
+@default-spring-ext-http\://repo.spring.io/ext-release-local/.lastUpdated=1477905367799
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1477905288931
+http\://repo.spring.io/milestone/.lastUpdated=1477905412793
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-jdbc\:jar\:1.2.6.RELEASE from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org

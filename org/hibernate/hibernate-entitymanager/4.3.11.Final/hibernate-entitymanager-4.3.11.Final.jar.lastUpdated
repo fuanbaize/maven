@@ -1,0 +1,11 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Nov 06 23:16:09 CST 2016
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1477905288934
+http\://repo.spring.io/ext-release-local/.error=Could not transfer artifact org.hibernate\:hibernate-entitymanager\:jar\:4.3.11.Final from/to spring-ext (http\://repo.spring.io/ext-release-local/)\: Failed to transfer file\: http\://repo.spring.io/ext-release-local/org/hibernate/hibernate-entitymanager/4.3.11.Final/hibernate-entitymanager-4.3.11.Final.jar. Return code is\: 901 , ReasonPhrase\:.
+http\://repo.spring.io/snapshot/.lastUpdated=1477905440503
+http\://repo.maven.apache.org/maven2/.lastUpdated=1478445369620
+http\://repo.spring.io/snapshot/.error=
+http\://repo.spring.io/milestone/.error=
+http\://repo.spring.io/milestone/.lastUpdated=1477905412796
+@default-spring-ext-http\://repo.spring.io/ext-release-local/.lastUpdated=1477905367803
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.hibernate\:hibernate-entitymanager\:jar\:4.3.11.Final from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org

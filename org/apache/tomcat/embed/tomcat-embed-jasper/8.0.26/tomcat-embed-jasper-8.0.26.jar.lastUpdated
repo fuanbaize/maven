@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Nov 06 23:16:12 CST 2016
+http\://repo.maven.apache.org/maven2/.lastUpdated=1478445372716
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1477905289215
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.tomcat.embed\:tomcat-embed-jasper\:jar\:8.0.26 from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org

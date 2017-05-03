@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Jan 16 18:20:39 CST 2017
+http\://repo.maven.apache.org/maven2/.lastUpdated=1484562039490
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1478680381767
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven.plugins\:maven-site-plugin\:jar\:3.4 from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org
